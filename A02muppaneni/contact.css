@@ -1,0 +1,34 @@
+body{
+	background-image: url("web.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	background-color:#DC143C;
+}
+
+.c{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align:center;
+    
+}
+.x{
+    padding:12px 20px;
+}
+#con{
+    float:right;
+    font-weight:bold;
+    color:#DC143C;
+    text-align:center;
+}
+#contactinfo {
+	font-family:"Arial";
+	font-style: italic;
+	text-align: center;
+	color: #34B334;
+	}

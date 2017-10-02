@@ -1,0 +1,58 @@
+body{
+	background-image: url("web.jpg");
+	background-size: 100%;
+}
+#aboutme {
+	font-family:"Arial";
+	font-style: italic;
+	text-align: left;
+	color: #34B334;
+	}
+	#back{
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	color:purple;
+}
+p.background {
+		font-style: italic;
+		text-align: left;
+		color: black;
+}
+#plan{
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	color:red;
+}
+#int{
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	color:green;
+}
+a[target]{
+	color:#DC143C;
+}
+p.foot {
+ text-align:left;
+ font-weight:bolder;
+ color:blue;
+}
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	background-color:blueviolet;
+}
+video {
+    width: 100%;
+    height: auto;
+}
+.img-circle{
+	border-radius:100%;
+	width: 200px;
+	height:200px;
+	position: relative;
+	border:3px solid #000000;
+	top:10px;
+	position:relative;
+}
